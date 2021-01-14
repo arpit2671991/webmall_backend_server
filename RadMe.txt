@@ -1,0 +1,4 @@
+npm init
+create .gitignore (touch .gitignore)
+create github repository
+
