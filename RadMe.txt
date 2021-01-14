@@ -2,3 +2,12 @@ npm init
 create .gitignore (touch .gitignore)
 create github repository
 
+create entery point on server called serer.js
+install modules (express, mongoose, nodemon)
+configure package.json for nodemon
+create server.js file in project
+initialize express and dotnev variables in server.js
+initialize listining port in server.js
+create db.js in database folder
+initialize mongoose in db.js
+create connectDB function and connect to database
